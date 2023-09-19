@@ -13,4 +13,4 @@ npm run serve
 
 ## 交流
 欢迎交流
-![](./src/static/wx.png)
+1101187142@qq.com
